@@ -1,0 +1,13 @@
+.firstbut,
+.secondbut {
+font-size: 28px;
+font-family: Helvetica,'Times New Roman',sans-serif;
+}
+.firstbut{
+color: #ffffff;
+background-color: black;
+}
+.secondbut{
+    color: #000000;
+    background-color: rgb(252, 236, 11);
+}
